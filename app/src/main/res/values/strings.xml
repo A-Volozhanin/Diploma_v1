@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Passport status check</string>
+    <string name="title_activity_scan">Scan</string>
+    <string name="title_activity_view_list_contents">Search history</string>
+    <string name="check_passport_title">Passport status check</string>
+    <string name="Series">Series</string>
+    <string name="Number">Number</string>
+    <string name="Check">Check</string>
+    <string name="Scan_tip">*Use to scan series and number</string>
+    <string name="History">Search history</string>
+    <string name="Unrecognized">Series and number can not be recognized</string>
+    <string name="Camera_tip">Point the camera at the series and passport number. Check the data. If it necessary repeat the scan</string>
+    <string name="Series_check">Series should contain 4 digits</string>
+    <string name="Number_check">Number should contain 6 digits</string>
+    <string name="Error">Error</string>
+    <string name="Saved">Saved in Search History!</string>
+    <string name="Saved_not">Data was not saved</string>
+    <string name="Delete">Delete?</string>
+    <string name="Delete_all">Are you sure you want to delete all data?</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Ok">OK</string>
+    <string name="No_Content">There are no contents in this list!</string>
+    <string name="Send">Send?</string>
+    <string name="Send_to">Send to email?</string>
+
+
+</resources>

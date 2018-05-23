@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Проверка статуса паспорта</string>
+    <string name="title_activity_scan">Сканирование паспорта</string>
+    <string name="title_activity_view_list_contents">История поиска</string>
+    <string name="check_passport_title">Проверка паспорта</string>
+    <string name="Series">Серия</string>
+    <string name="Number">Номер</string>
+    <string name="Check">Проверить</string>
+    <string name="Scan_tip">*Сканирование серии и номера паспорта с использованием камеры</string>
+    <string name="History">История поиска</string>
+    <string name="Unrecognized">Серия и номер паспорта не распознаны</string>
+    <string name="Camera_tip">Наведите камеру на серию и номер паспорта. Проверьте данные, при необходимости повторите сканирование</string>
+    <string name="Series_check">Серия должна состоять из 4 цифр</string>
+    <string name="Number_check">Номер должен состоять из 6 цифр</string>
+    <string name="Error">Ошибка</string>
+    <string name="Saved">Результат сохранен в истории поиска</string>
+    <string name="Saved_not">Ошибка, результат не сохранен</string>
+    <string name="Delete">Удалить?</string>
+    <string name="Delete_all">Вы уверены что хотите удалить все записи?</string>
+    <string name="Cancel">Отмена</string>
+    <string name="Ok">Да</string>
+    <string name="No_Content">Нет записей!</string>
+    <string name="Send">Отправить?</string>
+    <string name="Send_to">Отправить по электронной почте?</string>
+</resources>
